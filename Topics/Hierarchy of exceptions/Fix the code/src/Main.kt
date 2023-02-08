@@ -1,0 +1,1 @@
+    println(inputString[inputString.lastIndex])
